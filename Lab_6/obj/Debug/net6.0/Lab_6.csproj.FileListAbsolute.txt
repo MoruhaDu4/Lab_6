@@ -1,0 +1,14 @@
+C:\Users\morug\source\repos\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.exe
+C:\Users\morug\source\repos\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.deps.json
+C:\Users\morug\source\repos\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.runtimeconfig.json
+C:\Users\morug\source\repos\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.dll
+C:\Users\morug\source\repos\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.pdb
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.AssemblyInfoInputs.cache
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.AssemblyInfo.cs
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.dll
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\refint\Lab_6.dll
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.pdb
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.genruntimeconfig.cache
+C:\Users\morug\source\repos\Lab_6\Lab_6\obj\Debug\net6.0\ref\Lab_6.dll
